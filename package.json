@@ -61,7 +61,7 @@
     "consola": "^2.15.3",
     "dotenv": "^8.2.0",
     "ethers": "^5.3.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "mongoose": "^5.11.15",
     "socket.io": "^4.0.0"
   }
